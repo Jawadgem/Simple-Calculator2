@@ -29,3 +29,7 @@ else if (answer.operator === "Division") {
     console.log(answer.fisrtNumber / answer.secondNumber);
 }
 else { console.log("Please select valid operator")}
+
+// Calculator Made by Jawad Nasir
+// Sat 7 - 10 pm
+// Sir Faisal 
