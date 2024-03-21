@@ -1,3 +1,4 @@
+#! urs/bin/env node
 import inquirer from "inquirer";
 const answer = await inquirer.prompt([
     { message: "Enter first nummber", type: "number", name: "fisrtNumber" },
@@ -25,3 +26,6 @@ else if (answer.operator === "Division") {
 else {
     console.log("Please select valid operator");
 }
+// Calculator Made by Jawad Nasir
+// Sat 7 - 10 pm
+// Sir Faisal 
